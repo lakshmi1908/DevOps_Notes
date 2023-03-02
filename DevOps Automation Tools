@@ -1,0 +1,13 @@
+Automation is the crucial need for Devops practices. Automation in DevOps boosts speed, consistency, higher accuracy, reliability and increase in number of 
+deliveries.
+
+Version Control Tool - GIT (GitHub, GitLab, Bitbucket)
+Build tool - Maven, gradle, MS Build(dotnet)
+Continous Integration tool - Jenkins (Deployment automation)
+Configuration Management tool - Chef, Puppet, Ansible
+Containerization - Docker
+Container Orcestration - Kubernetes
+Testing tool - Selenium, Gremlin
+Monitoring tool - Nagios, New Relic
+Log Management - Splunk
+Infrastructure automation - AWS
